@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abhijeet69negi
-- 👀 I’m interested in Coding and Exploring new things
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on any projects related to any Computer
-- 📫 How to reach me you contact me through my Whatsapp no. 7819873802
+- 👀 I’m interested in Coding and Exploring new things.
+- 🌱 I’m currently learning C language.
+- 💞️ I’m looking to collaborate on any projects related to any Computer stuff.
+- 📫 How to reach me you contact me through my Whatsapp no. 7819873802.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
